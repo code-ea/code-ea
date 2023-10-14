@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9QS_8exA0pmj0iWa6KZBxSQpanO17-H9KhA&usqp=CAU" align="center" height="60" width="60" />
+<img src="https://media.tenor.com/FABadXdQ65MAAAAC/hi-hello.gif" align="center" height="70" width="120" />
 </div>  
   
 
@@ -106,4 +106,4 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=code-ea&&style=flat-square" align="center" />
-</div>  
+</div>
